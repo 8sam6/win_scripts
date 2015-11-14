@@ -1,0 +1,1 @@
+regedit /s "%cd%\old_photo_viewer.reg"

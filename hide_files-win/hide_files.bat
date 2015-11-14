@@ -1,0 +1,1 @@
+regedit /s "%cd%\hide.reg"
